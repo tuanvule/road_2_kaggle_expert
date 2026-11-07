@@ -1,0 +1,18 @@
+# Dataset
+data/
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated files
+outputs/*.csv
+
+# Secrets
+.env
